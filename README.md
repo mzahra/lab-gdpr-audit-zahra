@@ -21,3 +21,9 @@ This repository contains everything you need for this lab.
 - Keep this repository scoped to this lab only — no unrelated projects or personal files.
 - Use clear, descriptive filenames.
 - Remove secrets, API keys, and tokens before committing.
+
+## My submission
+
+GDPR audit of my Week 5 project, [AI Entrepreneur Coach](https://github.com/mzahra/ai-entrepreneur-coach). This follows on from my [EU AI Act audit](https://github.com/mzahra/audit-project-zahra) of the same system.
+
+- [`gdpr-audit.md`](./gdpr-audit.md): the full audit in one file. Covers the kick off data processing brief, Phase 1 (personal data inventory), Phase 2 (role map), Phase 3 (lawful basis assessment), Phase 4 (risk and rights analysis), Phase 5 (law stacking check), Phase 6 (compliance memo), the reinforce section (accountability test), and the stretch tasks (data protection by design checklist, draft privacy notice).
